@@ -1,5 +1,5 @@
 {
-  "name": "vite-monorepo",
+  "name": "vite",
   "version": "2.4.2",
   "private": true,
   "workspaces": [
